@@ -7,7 +7,7 @@ const PORT = 8080
 app.get('/',(req,res)=>{
     res.json({
         status:200,
-        message:'hello seto docker'
+        message:'hello seto docker항해 99보다 이게 더 영양가 있다'
     })
 })
 
